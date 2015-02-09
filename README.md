@@ -1,6 +1,6 @@
 # pimp-my-bootstrap
 ### Yo dawg I heared you like Bootstrap ;)
-### Some useful tweaks & classes for Bootstrap 3  
+-> Some useful tweaks & classes for Bootstrap 3  
 -----
 ## .navbar-toggle.navbar-toggle-bl
 Nicer borderless navbar toggle
