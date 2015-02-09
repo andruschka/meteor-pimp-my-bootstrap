@@ -2,7 +2,7 @@
 ### Yo dawg I heared you like Bootstrap ;)
 ### Some useful tweaks & classes for Bootstrap 3  
 -----
-## .navbar-toggle-bl
+## .navbar-toggle.navbar-toggle-bl
 Nicer borderless navbar toggle
 
 ## .navbar-nav .divider-vertical

@@ -1,8 +1,8 @@
 /* NICER NAVBAR TOGGLE */
-.navbar-toggle {
-  border:0px;
+.navbar-toggle.navbar-toggle-bl {
+  border:0px!important;
 }
-.navbar-toggle:hover, .navbar-toggle:focus {
+.navbar-toggle.navbar-toggle-bl:hover, .navbar-toggle.navbar-toggle-bl:focus {
   background-color:transparent!important;
 }
 .navbar-nav .divider-vertical {
