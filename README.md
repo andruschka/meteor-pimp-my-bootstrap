@@ -14,6 +14,12 @@ Center navbar-brand
 ## .navbar-brand-centered-mobile
 Center navbar-brand only on mobile devices
 
+## .btn.btn-outline-red /green/blue/yellow/orange/default
+Outlined buttons ;)
+
+## .label.label-outline-red /green/blue/yellow/orange/default
+Outlined labels ;)
+
 ## .float-hover
 Float animation on hover
 
@@ -29,14 +35,9 @@ Pointer on hover (and gives color to elem) - e.g. for links
 ## .gap-top / .gap-bottom / .gap-right / .gap-left
 Elem gets margin of 5px
 
-# .font-light
+## .font-light
 Font gets opacity of 0.6
 
-# .btn.btn-outline-red /green/blue/yellow/orange/default
-Outlined buttons ;)
 
-# .label.label-outline-red /green/blue/yellow/orange/default
-Outlined labels ;)
-
-# .form-control.yosemite
+## .form-control.yosemite
 Yosemite like input
