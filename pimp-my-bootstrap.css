@@ -151,6 +151,23 @@ label.label-light {
   width: 38px;
   padding: 0;
 }
+.id-card-panel {
+  -webkit-box-shadow: 0px 7px 8px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 7px 8px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 7px 8px 0px rgba(0,0,0,0.75);
+  max-width: 355px;
+  margin: 0 auto;
+}
+
+@media (max-width: 990px) {
+  .hybrid-container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width:100%;
+  }
+}
 
 /* OUTLINE BUTTONS */
 .btn.btn-outline-red{

@@ -7,8 +7,8 @@ Some useful tweaks & classes for Bootstrap 3
 ## .navbar-toggle.navbar-toggle-bl
 Nicer borderless navbar toggle
 
-## .navbar-nav .divider-vertical
-The good old divider is back!
+## li.divider-vertical
+The good old divider is back! (must be in a .navbar-nav)
 
 ## .navbar-brand-centered
 Center navbar-brand
@@ -43,3 +43,9 @@ Font gets opacity of 0.6
 
 ## .form-control.yosemite
 Yosemite like input
+
+## .panel.id-card-panel
+Thin centered panel with shadow for logins and stuff (must be in a .container)
+
+## .container.hybrid-container
+A .container that turns into a .fluid-container at 990 px
