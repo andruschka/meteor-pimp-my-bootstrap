@@ -16,11 +16,14 @@ Center navbar-brand
 ## .navbar-brand-centered-mobile
 Center navbar-brand only on mobile devices
 
-## .btn.btn-outline-red /green/blue/yellow/orange/default
+## .btn.btn-red-o (green/blue/yellow/orange/default/black)
 Outlined buttons ;)
 
-## .label.label-outline-red /green/blue/yellow/orange/default
+## .label.label-red-o (green/blue/yellow/orange/default/black)
 Outlined labels ;)
+
+## .alert.alert-warning-o (success/info/danger/default/black)
+Outlined alerts ;)
 
 ## .float-hover
 Float animation on hover
@@ -34,8 +37,8 @@ Wraps all
 ## .clickable(.red, .green, .orange)
 Pointer on hover (and gives color to elem) - e.g. for links
 
-## .gap-top / .gap-bottom / .gap-right / .gap-left
-Elem gets margin of 5px
+## .gap-top / .gap-bottom / .gap-right / .gap-left / .gap-top-2 / gap-bottom-2 / ...
+Elem gets margin of 5px / 10px (replacement for br html tags)
 
 ## .font-light
 Font gets opacity of 0.6
